@@ -1,2 +1,21 @@
 
 
+.overlay{
+    filter: brightness(50%);
+}
+.card-size{
+    height: 200px;
+}
+.img-size{
+    width: 200px;
+    height: 200px;
+}
+
+.institute-bg{
+    background-color: #F4FAFD;
+}
+
+.register-bg{
+    height: 220px;
+    background-color: #289BDE;
+}
