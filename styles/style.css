@@ -1,10 +1,10 @@
 
 
-.overlay{
+.cover-overlay{
     filter: brightness(50%);
 }
 .card-size{
-    height: 200px;
+    height: 00px;
 }
 .img-size{
     width: 200px;
@@ -19,7 +19,7 @@
     height: 220px;
     background-color: #289BDE;
 }
-.accordin-width{
+.frequently-modal{
     width: 872px;
 }
 
